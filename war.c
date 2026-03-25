@@ -81,7 +81,7 @@ int main() {
     printf("============================\n");
 
     //IMPRIME AS CARACTERÍSTICAS DE CADA TERRITORIO
-    for (size_t j = 0; j < NUM_TERRITORIOS j++)
+    for (size_t j = 0; j < NUM_TERRITORIOS; j++)
     {
              
         printf("Nome:\t %s\n", allTerritorios[j].nome);
